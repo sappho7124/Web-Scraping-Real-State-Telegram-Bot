@@ -1,0 +1,887 @@
+precio,metraje,lugar,titulo,url
+360.000,80,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539888.html
+130.000,131,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/539682.html
+60.000,123,Monistrol De Montserrat,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/monistrol-de-montserrat/542620.html
+295.000,125,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544649.html
+76.000,66,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/544525.html
+289.000,248,Lliçà D'Amunt,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/llica-d-amunt/538361.html
+449.999,4286,Granollers,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/granollers/370953.html
+99.999,735,Les Franqueses Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/les-franqueses-del-valles/353564.html
+136.000,86,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/350342.html
+240.000,264,Granollers,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/granollers/346311.html
+125.000,67,Canovelles,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/canovelles/339519.html
+180.000,250,Granollers,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/granollers/479740.html
+249.999,3691,Granollers,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/granollers/492464.html
+62.000,1962,Cànoves I Samalús,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/canoves-i-samalus/519308.html
+69.000,87,Canovelles,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/canovelles/523661.html
+15.000,571,Vilanova Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/vilanova-del-valles/529116.html
+78.500,74,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/529730.html
+217.500,80,Les Franqueses Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/les-franqueses-del-valles/531333.html
+219.999,154,Cardedeu,Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/cardedeu/533362.html
+189.999,80,La Roca Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/la-roca-del-valles/537549.html
+189.999,120,Bigues I Riells,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/bigues-i-riells/537759.html
+217.500,87,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/537873.html
+399.999,293,Bigues I Riells,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/bigues-i-riells/537982.html
+250.000,117,Santa Eulàlia De Ronçana,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-eulalia-de-roncana/539374.html
+85.000,120,Les Franqueses Del Vallès,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/les-franqueses-del-valles/539389.html
+199.999,65,Les Franqueses Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/les-franqueses-del-valles/539955.html
+215.000,108,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/541457.html
+219.999,112,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/541466.html
+65.000,650,Santa Eulàlia De Ronçana,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/santa-eulalia-de-roncana/541593.html
+229.999,109,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/543511.html
+100.000,90,Les Franqueses Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/les-franqueses-del-valles/543555.html
+87.500,577,Bigues I Riells,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/bigues-i-riells/544313.html
+170.000,71,"L'Hospitalet De Llobregat, La Florida - Les Planes",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544204.html
+159.000,71,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/537479.html
+160.000,85,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/534729.html
+260.000,65,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538178.html
+555.000,113,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539883.html
+185.000,75,"Barcelona, Horta Guinardó",Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/barcelona/543927.html
+155.000,61,Esplugues De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/esplugues-de-llobregat/538986.html
+367.000,76,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544885.html
+149.000,64,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544611.html
+339.000,108,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/532372.html
+310.000,98,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/545100.html
+229.000,64,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/222988.html
+165.000,90,Malgrat De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/malgrat-de-mar/544730.html
+333.000,81,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543041.html
+125.000,61,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/545223.html
+265.000,130,Sant Boi De Llobregat,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-boi-de-llobregat/543038.html
+465.000,200,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/539234.html
+265.000,95,Barberà Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barbera-del-valles/539814.html
+289.000,73,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/545140.html
+29.000,64,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/523236.html
+169.000,78,"Sabadell, Concordia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/545066.html
+7.500,15,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/530274.html
+55.000,44,"Barcelona, Horta Guinardó",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/545213.html
+188.000,179,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/545104.html
+185.000,74,Sant Joan Despí,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-joan-despi/513534.html
+205.000,118,"Sabadell, La Creu De Barberà",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sabadell/544295.html
+336.000,130,"Mataró, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/539383.html
+170.000,67,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/545194.html
+327.000,110,"Barcelona, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541996.html
+255.000,65,"Barcelona, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/524767.html
+189.000,77,Sant Joan Despí,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-joan-despi/543953.html
+140.000,62,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544781.html
+285.000,57,"Barcelona, Gràcia",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barcelona/504407.html
+137.000,45,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/543308.html
+65.000,21,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/543016.html
+150.000,76,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/542985.html
+220.000,113,"Sabadell, Sant Oleguer",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/539442.html
+415.000,246,Sant Quirze Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-quirze-del-valles/539752.html
+269.000,96,"Sabadell, Can Llonch",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/540656.html
+169.000,83,"Sabadell, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/541075.html
+195.000,100,"Sabadell, Gràcia",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sabadell/541314.html
+135.000,82,"Sabadell, Les Termes",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/543516.html
+260.000,79,"Sabadell, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/538694.html
+136.000,838,Sentmenat,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/sentmenat/535671.html
+139.000,79,"Sabadell, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/525456.html
+315.000,105,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/544514.html
+380.000,100,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541879.html
+330.000,101,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/545188.html
+129.900,69,"Rubí, Estació - Les Torres",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/539043.html
+145.000,65,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/544830.html
+200.000,70,"Cornellà De Llobregat, La Gavarra",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cornella-de-llobregat/540059.html
+69.500,70,Malgrat De Mar,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/malgrat-de-mar/545179.html
+175.000,108,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/537735.html
+147.000,250,Malgrat De Mar,Edificio en venta,https://www.tecnocasa.es/venta/edificio/barcelona/malgrat-de-mar/545175.html
+312.000,238,"Barcelona, Les Corts",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/542068.html
+140.000,70,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544787.html
+125.000,66,Premià De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/premia-de-mar/369043.html
+13.400,10,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/362816.html
+8.500,7,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/521490.html
+467.000,126,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541484.html
+259.990,77,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/521065.html
+120.000,80,"Sabadell, Les Termes",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/544737.html
+90.000,13,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543899.html
+158.000,108,"Badalona, La Salut - Lloreda",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/badalona/536196.html
+165.000,78,Sant Adrià De Besòs,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-adria-de-besos/543438.html
+135.000,57,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/518760.html
+189.000,76,Canet De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/canet-de-mar/545172.html
+217.000,110,Viladecans,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/viladecans/235885.html
+18.000,20,"Badalona, Bufalà",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/badalona/544609.html
+90.000,56,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/543757.html
+18.000,10,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/489147.html
+325.000,189,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/543907.html
+12.000,10,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/337176.html
+226.000,77,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541191.html
+13.500,9,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/543043.html
+14.000,10,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/544321.html
+313.000,98,Les Franqueses Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/les-franqueses-del-valles/543530.html
+139.900,106,"Terrassa, Centre",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/543736.html
+380.000,157,Ullastrell,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/ullastrell/542956.html
+230.000,146,"Terrassa, Centre",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/terrassa/541666.html
+130.000,48,Vacarisses,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/vacarisses/541006.html
+154.000,90,"Terrassa, Centre",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/540144.html
+75.000,70,Premià De Dalt,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/premia-de-dalt/543915.html
+137.000,94,"Terrassa, Centre",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/537701.html
+85.000,50,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/544628.html
+199.000,116,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/541311.html
+282.500,148,Parets Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/parets-del-valles/524277.html
+189.000,80,Parets Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/parets-del-valles/517303.html
+125.000,70,Premià De Dalt,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/premia-de-dalt/543040.html
+243.530,117,Mollet Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mollet-del-valles/541310.html
+210.000,70,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543888.html
+230.000,86,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543881.html
+130.000,30,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542989.html
+130.000,50,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/538712.html
+175.000,66,Sant Feliu De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-feliu-de-llobregat/544744.html
+165.000,63,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543292.html
+147.000,70,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/514397.html
+275.000,95,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542313.html
+332.000,100,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/542412.html
+260.000,103,"Cornellà De Llobregat, El Pedró",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cornella-de-llobregat/532290.html
+309.000,76,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544096.html
+94.000,53,Sant Joan Despí,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-joan-despi/533103.html
+648.000,200,"Cerdanyola Del Vallès, Caneletes - Turonet",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/cerdanyola-del-valles/544736.html
+540.000,130,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/545117.html
+165.000,54,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542387.html
+205.000,130,El Masnou,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-masnou/498058.html
+253.000,101,Viladecans,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/viladecans/543614.html
+180.000,73,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/542940.html
+55.000,135,Santa Coloma De Gramenet,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/santa-coloma-de-gramenet/303663.html
+185.000,80,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/542617.html
+105.000,50,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/543524.html
+400.000,283,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/543597.html
+125.000,70,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/544821.html
+160.000,70,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/542099.html
+269.000,125,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/522795.html
+209.000,70,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/542080.html
+76.000,40,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/207481.html
+70.000,42,"Barcelona, Horta Guinardó",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/542898.html
+270.000,91,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/542268.html
+230.000,102,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/538275.html
+382.500,314,Sant Boi De Llobregat,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-boi-de-llobregat/534906.html
+280.000,155,Sant Adrià De Besòs,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-adria-de-besos/544368.html
+163.500,62,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/509237.html
+290.000,83,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/544259.html
+279.000,65,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544659.html
+140.000,75,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542647.html
+220.000,118,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543295.html
+435.000,127,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544779.html
+370.000,81,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543699.html
+735.000,168,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/506392.html
+175.000,77,"Sabadell, La Creu De Barberà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/534280.html
+265.000,106,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/523880.html
+180.000,77,"Sabadell, La Creu De Barberà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/534282.html
+215.000,68,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540329.html
+300.000,74,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/531046.html
+100.000,55,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/540847.html
+90.000,62,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/542527.html
+185.000,74,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/544523.html
+10.500,30,Premià De Mar,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/premia-de-mar/536266.html
+120.000,92,Premià De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/premia-de-mar/531532.html
+399.000,166,Premià De Mar,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/premia-de-mar/503143.html
+99.900,40,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541195.html
+150.000,44,Premià De Dalt,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/premia-de-dalt/539591.html
+310.000,68,"Barcelona, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544674.html
+18.000,15,"Barcelona, Horta Guinardó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/539741.html
+220.000,55,Premià De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/premia-de-mar/541684.html
+159.000,150,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/534630.html
+209.000,83,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535461.html
+255.000,87,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544591.html
+227.000,76,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/514246.html
+9.000,9,"Barcelona, Nou Barris",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/515407.html
+190.000,73,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538389.html
+255.000,73,"Barcelona, Horta Guinardó",Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/barcelona/537543.html
+215.000,70,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540689.html
+290.000,80,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/243108.html
+95.000,55,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/531186.html
+16.800,20,"Barcelona, Horta Guinardó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/544654.html
+224.000,82,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/544416.html
+319.500,84,Vilassar De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilassar-de-mar/261282.html
+485.000,102,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/216785.html
+450.000,135,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543028.html
+220.000,73,"Sabadell, La Creu De Barberà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/533864.html
+192.000,68,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540524.html
+215.000,92,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/531106.html
+250.000,69,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/534155.html
+299.000,102,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544715.html
+165.000,48,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542319.html
+245.000,108,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540920.html
+215.000,90,"Cornellà De Llobregat, La Gavarra",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cornella-de-llobregat/539612.html
+116.000,59,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/532386.html
+145.000,69,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536847.html
+100.000,134,Pallejà,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/palleja/337500.html
+7.000,15,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/505972.html
+135.000,67,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540414.html
+159.000,63,"Cornellà De Llobregat, El Pedró",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cornella-de-llobregat/544857.html
+300.000,74,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544102.html
+230.000,70,"Cornellà De Llobregat, El Pedró",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cornella-de-llobregat/542941.html
+145.000,70,"L'Hospitalet De Llobregat, Bellvitge",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/543039.html
+350.000,449,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/541919.html
+295.000,90,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/534788.html
+142.000,33,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/242742.html
+90.000,35,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/490350.html
+185.000,36,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543590.html
+295.000,94,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/529390.html
+572.000,126,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/514074.html
+210.000,71,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/544750.html
+145.000,99,"Rubí, Centre - Mercat",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/536877.html
+445.000,125,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/529325.html
+232.000,45,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/511170.html
+210.000,73,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/359954.html
+348.000,106,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540590.html
+205.000,61,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543546.html
+154.000,83,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/530200.html
+170.000,69,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/521708.html
+160.000,82,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/530201.html
+690.000,185,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/543525.html
+370.000,73,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/527971.html
+289.000,79,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/539680.html
+269.000,88,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/536862.html
+145.000,86,"Mataró, Pla D'En Boet",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/518342.html
+180.000,60,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/522341.html
+120.000,76,Mollet Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mollet-del-valles/534872.html
+205.000,101,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/542974.html
+125.000,56,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/540665.html
+175.000,49,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543322.html
+139.000,129,"Sabadell, Ca N'Oriac",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sabadell/539390.html
+265.000,68,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/528548.html
+181.000,90,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/543856.html
+84.900,66,"Mataró, Rocafonda - El Palau",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/544455.html
+17.000,10,"Barcelona, Gràcia",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/534684.html
+119.000,110,Sant Vicenç Dels Horts,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/sant-vicenc-dels-horts/536184.html
+186.000,65,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/518103.html
+160.000,52,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/521075.html
+289.990,149,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/544261.html
+309.000,93,Sant Cugat Del Vallès,Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/sant-cugat-del-valles/525873.html
+49.500,102,"Mataró, Cerdanyola",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/mataro/528594.html
+269.950,65,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539058.html
+444.420,90,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543383.html
+269.900,115,Castelldefels,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/castelldefels/540330.html
+199.900,118,Sant Adrià De Besòs,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-adria-de-besos/533946.html
+349.900,89,Castelldefels,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/castelldefels/539472.html
+259.900,70,Castelldefels,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/castelldefels/543048.html
+50.000,35,"Badalona, Artigas - Llefià",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/badalona/523265.html
+230.000,171,"Barcelona, Gràcia",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/511727.html
+460.000,102,"Barcelona, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541637.html
+129.000,59,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544791.html
+5.999,24,Mollet Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/mollet-del-valles/538312.html
+142.000,72,"Rubí, Centre - Mercat",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/530931.html
+269.000,93,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/544066.html
+360.000,71,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544712.html
+95.000,64,"Rubí, Centre - Mercat",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/537678.html
+100.000,65,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/537725.html
+245.000,79,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539975.html
+295.000,93,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541394.html
+59.000,75,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/349892.html
+285.000,86,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544163.html
+190.000,62,"Barcelona, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538441.html
+375.000,117,Cabrera De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cabrera-de-mar/543679.html
+319.000,118,Molins De Rei,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/molins-de-rei/536845.html
+40.000,45,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542421.html
+139.900,62,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/541504.html
+303.000,88,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539692.html
+173.000,81,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/536659.html
+116.750,78,Sant Adrià De Besòs,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-adria-de-besos/530566.html
+345.000,93,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542258.html
+125.000,46,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544676.html
+159.900,86,"Mataró, Cirera",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/544469.html
+239.900,88,"Mataró, Vista Alegre - Els Molins",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/362191.html
+224.900,91,"Mataró, Camí De La Serra",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/520057.html
+12.000,7,"Barcelona, Gràcia",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/544110.html
+130.000,64,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/541811.html
+60.000,147,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/541100.html
+120.000,80,"L'Hospitalet De Llobregat, La Torrasa",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544042.html
+160.000,72,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/544075.html
+125.000,45,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544672.html
+270.000,152,"Cerdanyola Del Vallès, Fontetes - La Farigola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/544562.html
+149.000,40,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/534208.html
+315.000,200,Montcada I Reixac,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/montcada-i-reixac/540238.html
+252.250,111,"Rubí, Urbanitzacions",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/rubi/542044.html
+235.000,114,"Rubí, Centre - Mercat",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/544229.html
+179.000,66,Barcelona,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/232727.html
+190.000,85,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/324271.html
+330.000,85,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/517801.html
+255.000,200,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/319180.html
+195.000,73,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543822.html
+315.000,93,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539831.html
+75.000,61,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/543697.html
+16.900,12,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/535091.html
+380.000,100,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/517105.html
+420.000,94,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/527542.html
+110.000,75,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/303602.html
+130.000,65,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/538068.html
+152.100,55,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/324582.html
+330.000,92,Sant Cugat Del Vallès,Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/sant-cugat-del-valles/544061.html
+149.000,58,"Rubí, Centre - Mercat",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/322833.html
+99.000,66,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/536664.html
+250.000,64,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544604.html
+205.000,65,"Cornellà De Llobregat, La Gavarra",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cornella-de-llobregat/539325.html
+348.000,70,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536550.html
+289.000,102,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/538148.html
+185.000,86,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543237.html
+213.800,138,Santa Coloma De Gramenet,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/santa-coloma-de-gramenet/543315.html
+162.000,106,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/539840.html
+115.000,65,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/541503.html
+188.000,78,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/539985.html
+188.000,64,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542307.html
+15.900,10,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/492882.html
+13.900,26,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/499640.html
+219.000,77,"Cerdanyola Del Vallès, Centre - Cordelles",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/537967.html
+95.000,20,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/514557.html
+419.000,86,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535314.html
+17.800,12,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/318430.html
+23.000,9,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/517855.html
+198.000,106,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/543055.html
+229.000,91,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/543713.html
+195.000,91,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542358.html
+144.000,76,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/540701.html
+95.000,63,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/525198.html
+310.000,73,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/345093.html
+56.000,89,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/543553.html
+110.000,40,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544176.html
+162.000,47,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/543455.html
+134.000,67,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/543993.html
+275.000,184,Sant Boi De Llobregat,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-boi-de-llobregat/542636.html
+240.000,74,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/532810.html
+235.000,60,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/544361.html
+187.000,73,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/538325.html
+190.000,100,Mollet Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mollet-del-valles/543754.html
+149.900,97,"Terrassa, Nord - Est",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/542120.html
+109.000,65,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544493.html
+338.000,80,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544588.html
+129.900,107,"Terrassa, Nord - Est",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/542711.html
+149.000,56,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540420.html
+10.500,10,"Barcelona, Gràcia",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/527191.html
+205.000,70,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/524159.html
+365.000,120,Vilassar De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilassar-de-mar/523036.html
+75.000,38,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/343369.html
+385.000,166,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526399.html
+599.000,269,Vilassar De Mar,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/vilassar-de-mar/536855.html
+185.000,92,"Sabadell, La Creu De Barberà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/538053.html
+135.000,75,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/540314.html
+310.000,100,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539758.html
+260.000,119,Montornès Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montornes-del-valles/544285.html
+189.000,71,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542843.html
+75.000,71,Mollet Del Vallès,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/mollet-del-valles/543657.html
+145.000,90,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/201088.html
+339.000,97,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542054.html
+210.000,59,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540566.html
+18.000,15,"Barcelona, Horta Guinardó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/539739.html
+175.000,89,"Badalona, Montigalà - Sant Crist",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/533241.html
+549.000,115,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/529558.html
+139.500,122,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/531022.html
+229.000,82,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/331440.html
+249.900,106,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/542666.html
+217.000,70,"Barcelona, Sant Martí",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barcelona/544409.html
+66.000,122,"Terrassa, Nord - Est",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/terrassa/542361.html
+204.900,117,"Terrassa, Nord - Est",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/532315.html
+43.000,899,Rellinars,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/rellinars/542644.html
+70.000,70,"Terrassa, Nord - Est",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/542637.html
+199.900,102,"Terrassa, Nord - Est",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/540131.html
+87.000,66,"Terrassa, Nord - Est",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/539550.html
+207.000,125,"Terrassa, Nord - Est",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/terrassa/537734.html
+99.900,57,"Terrassa, Nord - Est",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/terrassa/536250.html
+315.000,590,Barberà Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/barbera-del-valles/527127.html
+200.000,254,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/364751.html
+1.900.000,800,Sant Cugat Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/sant-cugat-del-valles/544385.html
+38.000,55,"Rubí, Centre - Mercat",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/rubi/535163.html
+195.000,314,"Rubí, Centre - Mercat",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/rubi/540160.html
+159.000,90,Barberà Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barbera-del-valles/519693.html
+396.000,85,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542039.html
+204.900,112,Mollet Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mollet-del-valles/520465.html
+190.000,218,Castellet I La Gornal,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/castellet-i-la-gornal/539902.html
+169.000,88,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/540936.html
+168.000,124,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/518903.html
+260.000,88,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/316300.html
+350.000,111,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/497690.html
+130.000,30,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/514186.html
+10.000,8,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/346601.html
+185.000,65,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537084.html
+530.000,125,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541639.html
+329.000,170,Sant Boi De Llobregat,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-boi-de-llobregat/544395.html
+380.000,92,Sant Cugat Del Vallès,Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/sant-cugat-del-valles/544063.html
+16.000,21,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/543667.html
+159.000,70,Mollet Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mollet-del-valles/544283.html
+315.000,199,Mollet Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mollet-del-valles/543721.html
+309.000,114,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544337.html
+192.000,65,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544319.html
+159.000,76,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/542621.html
+212.100,55,Castelldefels,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/castelldefels/544315.html
+199.000,90,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544316.html
+79.000,26,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/533071.html
+240.000,97,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/540204.html
+247.000,151,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/538860.html
+225.000,111,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/541422.html
+223.000,91,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/538857.html
+175.000,101,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/528898.html
+320.000,96,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/518444.html
+325.000,309,"Rubí, Urbanitzacions",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/rubi/536667.html
+109.000,40,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544300.html
+209.900,75,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/518912.html
+120.000,140,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/529573.html
+269.000,63,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541072.html
+699.000,226,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/544213.html
+178.000,78,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/540344.html
+220.000,59,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544011.html
+108.000,77,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/543052.html
+309.000,240,Barberà Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barbera-del-valles/527556.html
+120.000,60,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/540230.html
+96.000,39,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536805.html
+197.600,95,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536639.html
+96.000,97,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/541650.html
+126.000,80,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543377.html
+146.000,57,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542269.html
+76.000,41,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543258.html
+395.000,122,"Badalona, Bufalà",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/badalona/538709.html
+13.000,6,"Mataró, Cerdanyola",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/mataro/540501.html
+250.000,110,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/541007.html
+120.000,96,Sant Boi De Llobregat,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/sant-boi-de-llobregat/540295.html
+180.000,75,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/543616.html
+127.500,60,"Cerdanyola Del Vallès, Centre - Cordelles",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/538618.html
+180.000,90,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/540123.html
+33.000,12,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/526118.html
+340.000,72,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/503763.html
+350.000,113,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536863.html
+365.000,75,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/544062.html
+245.000,84,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538580.html
+1.100.000,474,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/518057.html
+429.000,98,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/526661.html
+374.000,100,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538130.html
+190.000,94,"Cerdanyola Del Vallès, Fontetes - La Farigola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/521732.html
+132.000,50,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/232675.html
+129.000,72,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/539804.html
+249.000,270,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/490257.html
+70.000,24,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539835.html
+180.000,33,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/197535.html
+14.000,10,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/527674.html
+205.000,71,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/543824.html
+139.000,72,"L'Hospitalet De Llobregat, Santa Eulàlia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/544023.html
+88.000,85,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/543698.html
+110.000,126,"L'Hospitalet De Llobregat, Santa Eulàlia",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/l-hospitalet-de-llobregat/529274.html
+925.000,457,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/542893.html
+15.500,10,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/534640.html
+389.000,81,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538225.html
+200.000,100,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/362607.html
+265.000,79,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541380.html
+30.000,12,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/538680.html
+134.500,85,Tordera,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/tordera/542953.html
+269.500,138,"Cerdanyola Del Vallès, Caneletes - Turonet",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/537361.html
+137.000,75,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/541965.html
+145.000,95,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/544001.html
+175.000,84,El Masnou,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-masnou/541383.html
+125.000,74,"Rubí, Centre - Mercat",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/519462.html
+239.000,104,El Masnou,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-masnou/542109.html
+440.000,488,"Barcelona, Les Corts",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/538243.html
+260.000,132,"Barcelona, Nou Barris",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barcelona/535981.html
+7.500,10,Parets Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/parets-del-valles/538296.html
+450.000,304,Lliçà D'Amunt,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/llica-d-amunt/535270.html
+80.000,615,Lliçà D'Amunt,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/llica-d-amunt/538364.html
+7.500,11,Parets Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/parets-del-valles/538298.html
+7.500,11,Parets Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/parets-del-valles/538299.html
+115.000,720,Montcada I Reixac,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/montcada-i-reixac/539232.html
+220.000,135,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/539726.html
+8.500,15,Parets Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/parets-del-valles/510330.html
+99.000,33,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/540919.html
+299.000,371,Barberà Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/barbera-del-valles/529602.html
+296.000,84,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542534.html
+710.000,340,Santa Coloma De Gramenet,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/santa-coloma-de-gramenet/540943.html
+209.000,78,Sant Vicenç Dels Horts,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-vicenc-dels-horts/515010.html
+127.000,65,Sant Adrià De Besòs,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-adria-de-besos/543607.html
+95.000,44,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/543335.html
+259.900,100,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/540955.html
+60.000,829,Vilanova I La Geltrú,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/vilanova-i-la-geltru/541943.html
+365.000,91,Vilassar De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilassar-de-mar/543045.html
+20.000,40,"Barcelona, Nou Barris",Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/barcelona/534728.html
+394.000,110,"Barcelona, Horta Guinardó",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barcelona/536692.html
+133.000,51,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541378.html
+145.000,75,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/523413.html
+188.800,59,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/530137.html
+299.000,65,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/534124.html
+150.000,82,"Barcelona, Gràcia",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/540031.html
+230.000,46,"Barcelona, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/528908.html
+20.000,9,"Barcelona, Sarrià - Sant Gervasi",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/537496.html
+17.000,9,"Barcelona, Sarrià - Sant Gervasi",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/537459.html
+975.000,438,Vilanova I La Geltrú,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/vilanova-i-la-geltru/537009.html
+125.000,63,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/372120.html
+220.000,84,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536113.html
+179.900,74,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537232.html
+272.260,180,Mollet Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mollet-del-valles/535107.html
+80.000,50,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/532865.html
+182.500,82,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/543188.html
+110.000,58,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/543464.html
+150.000,60,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/533191.html
+292.000,152,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/537677.html
+370.000,84,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536157.html
+169.900,95,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/541308.html
+150.000,70,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/542881.html
+365.000,110,Castelldefels,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/castelldefels/538040.html
+430.000,101,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/503252.html
+346.000,119,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541131.html
+9.500,8,"Barcelona, Sants - Montjuïc",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/528875.html
+230.000,64,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/528479.html
+18.000,15,"Barcelona, Horta Guinardó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/539745.html
+189.000,64,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/503736.html
+12.000,25,"Barcelona, Sants - Montjuïc",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/535151.html
+470.000,122,El Masnou,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/el-masnou/538309.html
+60.000,60,"Barcelona, Horta Guinardó",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/533892.html
+139.000,72,"Sabadell, Ca N'Oriac",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/539377.html
+160.000,90,Arenys De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/arenys-de-mar/543673.html
+169.000,80,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/535581.html
+189.000,88,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/537577.html
+145.000,62,Sant Boi De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-boi-de-llobregat/539218.html
+140.000,70,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/533217.html
+128.000,70,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/529613.html
+60.000,23,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/528128.html
+295.000,147,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/542191.html
+379.564,90,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539056.html
+295.000,94,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/529226.html
+130.000,40,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/320230.html
+195.000,100,"Mataró, Vista Alegre - Els Molins",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mataro/543582.html
+190.000,29,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/542213.html
+340.000,82,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543574.html
+229.900,105,Sant Adrià De Besòs,Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/sant-adria-de-besos/525598.html
+345.000,220,Lliçà D'Amunt,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/llica-d-amunt/531931.html
+545.000,207,"Cerdanyola Del Vallès, Serraparera",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/cerdanyola-del-valles/540522.html
+335.051,199,Mollet Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mollet-del-valles/536033.html
+259.000,96,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526894.html
+159.900,70,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/503795.html
+190.000,83,"L'Hospitalet De Llobregat, Bellvitge",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/541421.html
+180.000,52,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543037.html
+239.000,140,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/534298.html
+99.990,55,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/541717.html
+180.000,150,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/543035.html
+365.000,278,Granollers,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/granollers/541145.html
+310.000,83,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/531659.html
+210.000,74,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538018.html
+123.000,56,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/534831.html
+225.000,99,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/498094.html
+15.000,12,"L'Hospitalet De Llobregat, Can Serra - Pubilla Cases",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/l-hospitalet-de-llobregat/540085.html
+425.000,258,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/539992.html
+100.000,10,"Rubí, Urbanitzacions",Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/rubi/528535.html
+279.000,109,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/512476.html
+458.000,95,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/372937.html
+180.000,76,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540327.html
+49.630,36,"L'Hospitalet De Llobregat, Bellvitge",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/l-hospitalet-de-llobregat/502147.html
+190.000,127,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/541776.html
+375.543,75,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539055.html
+350.000,77,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535853.html
+590.000,135,"Barcelona, Gràcia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543382.html
+335.000,78,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540576.html
+350.000,95,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540679.html
+370.000,103,"Badalona, Gorg - Pep Ventura",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/badalona/536765.html
+229.000,110,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/541775.html
+346.000,73,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/534816.html
+90.000,52,"Cornellà De Llobregat, Sant Ildefons",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cornella-de-llobregat/536859.html
+220.000,65,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541289.html
+187.000,41,Sitges,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sitges/539834.html
+167.000,142,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/534659.html
+177.260,77,Sant Vicenç Dels Horts,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-vicenc-dels-horts/251555.html
+169.000,79,Barberà Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barbera-del-valles/537037.html
+220.000,245,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/513336.html
+650.000,309,"Mataró, Centre",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mataro/539328.html
+395.000,100,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/543207.html
+56.000,375,"Barcelona, Nou Barris",Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/barcelona/527889.html
+150.000,79,Barberà Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barbera-del-valles/502303.html
+111.000,46,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/376761.html
+157.000,110,"Sabadell, Ca N'Oriac",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/542879.html
+155.000,32,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/527817.html
+170.000,65,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/541411.html
+150.000,37,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541541.html
+4.990,12,Mollet Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/mollet-del-valles/517294.html
+320.000,104,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541118.html
+239.900,120,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/541579.html
+427.000,146,Vilassar De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilassar-de-mar/535070.html
+320.000,400,"Badalona, Artigas - Llefià",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/badalona/522090.html
+139.000,63,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/532243.html
+129.500,85,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/541117.html
+115.000,62,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/541661.html
+134.800,37,Montgat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montgat/532279.html
+98.000,75,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/540319.html
+317.000,106,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/540784.html
+132.000,66,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/240794.html
+159.900,66,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/538675.html
+250.000,101,"Badalona, Montigalà - Sant Crist",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/536813.html
+155.000,75,"Badalona, Montigalà - Sant Crist",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/536006.html
+290.000,83,"Badalona, Montigalà - Sant Crist",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/528542.html
+313.000,129,"Badalona, Montigalà - Sant Crist",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/521447.html
+305.000,85,"Badalona, Montigalà - Sant Crist",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/528538.html
+279.000,109,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/529030.html
+338.000,73,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535912.html
+229.000,95,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/323886.html
+150.000,40,Vilanova I La Geltrú,Casa rural en venta,https://www.tecnocasa.es/venta/casa-rural/barcelona/vilanova-i-la-geltru/540759.html
+185.000,89,El Papiol,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-papiol/536648.html
+167.000,68,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/540176.html
+379.000,173,Sant Vicenç Dels Horts,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-vicenc-dels-horts/541039.html
+237.000,50,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542571.html
+55.000,37,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/540073.html
+375.000,162,"Cerdanyola Del Vallès, Fontetes - La Farigola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/542983.html
+420.000,109,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542185.html
+140.000,120,Vilanova I La Geltrú,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilanova-i-la-geltru/537417.html
+430.000,113,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538778.html
+335.000,113,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/538791.html
+220.000,76,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540897.html
+140.000,90,"Sabadell, Concordia",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/542864.html
+320.000,72,El Prat De Llobregat,Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/el-prat-de-llobregat/536748.html
+335.000,115,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/365399.html
+255.000,85,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542689.html
+188.500,58,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537239.html
+155.000,50,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536026.html
+135.000,57,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/372309.html
+270.000,87,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536020.html
+348.000,80,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537928.html
+125.000,67,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/502975.html
+358.000,97,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539981.html
+190.000,173,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/538097.html
+133.000,90,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/525019.html
+205.000,33,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535631.html
+95.000,76,"Badalona, La Salut - Lloreda",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/badalona/515837.html
+289.900,76,Castelldefels,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/castelldefels/529102.html
+300.000,169,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/530694.html
+224.900,111,Mollet Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mollet-del-valles/528316.html
+77.000,55,"L'Hospitalet De Llobregat, La Torrasa",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/542629.html
+185.000,107,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/533590.html
+325.000,75,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/542771.html
+230.000,65,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538769.html
+385.000,89,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536175.html
+199.990,142,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/535001.html
+299.000,139,"Cerdanyola Del Vallès, Fontetes - La Farigola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/541319.html
+280.000,139,"L'Hospitalet De Llobregat, La Torrasa",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/541053.html
+234.000,106,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/540374.html
+5.500,10,"Badalona, Artigas - Llefià",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/badalona/514039.html
+10.000,19,Mollet Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/mollet-del-valles/368617.html
+4.000,10,Mollet Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/mollet-del-valles/494426.html
+159.000,190,Mollet Del Vallès,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/mollet-del-valles/514318.html
+69.000,81,Mollet Del Vallès,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/mollet-del-valles/520772.html
+128.000,176,Mollet Del Vallès,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/mollet-del-valles/525572.html
+130.000,198,Mollet Del Vallès,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/mollet-del-valles/528992.html
+320.000,163,Mollet Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mollet-del-valles/537336.html
+315.000,157,Mollet Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mollet-del-valles/537628.html
+350.000,77,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537273.html
+159.500,85,"Cerdanyola Del Vallès, Serraparera",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/542413.html
+110.000,32,Barcelona,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/208475.html
+329.800,103,"Badalona, Casagemes - Canyadó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/542384.html
+209.000,92,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/537312.html
+389.000,60,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539428.html
+70.000,44,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/539262.html
+125.000,65,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/541095.html
+200.000,90,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/540171.html
+410.000,197,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/535039.html
+149.000,68,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/533624.html
+285.000,125,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/534374.html
+380.000,205,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/534833.html
+259.500,119,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/528657.html
+297.000,132,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/528653.html
+287.500,98,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/528654.html
+187.500,52,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/528655.html
+225.000,70,"Badalona, Bufalà",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/528656.html
+179.000,175,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/315658.html
+11.000,10,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/537451.html
+10.000,5,"Barcelona, Horta Guinardó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/490718.html
+130.000,66,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/538865.html
+415.000,110,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536348.html
+300.000,98,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/528179.html
+1.365.000,280,"Barcelona, Sants - Montjuïc",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barcelona/518913.html
+64.900,70,"L'Hospitalet De Llobregat, La Torrasa",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/l-hospitalet-de-llobregat/533565.html
+89.000,47,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/538475.html
+200.000,109,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535883.html
+250.000,103,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/541089.html
+490.000,150,"Barcelona, Horta Guinardó",Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/barcelona/340881.html
+6.990,8,"Barcelona, Nou Barris",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/357329.html
+125.000,33,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/518971.html
+145.000,65,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/519182.html
+484.800,250,"Badalona, Casagemes - Canyadó",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/badalona/372954.html
+171.000,72,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/506745.html
+490.000,110,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/538573.html
+19.000,30,"Barcelona, Nou Barris",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/533499.html
+16.000,24,"Barcelona, Nou Barris",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/510691.html
+140.000,70,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/535574.html
+330.000,65,"Barcelona, Horta Guinardó",Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/barcelona/102422.html
+17.500,15,"Barcelona, Horta Guinardó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/537326.html
+385.000,110,Montcada I Reixac,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montcada-i-reixac/538396.html
+12.000,10,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/541350.html
+16.300,23,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/535102.html
+118.000,66,"Badalona, Gorg - Pep Ventura",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/538853.html
+215.000,57,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526812.html
+25.500,12,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/538800.html
+263.000,60,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535855.html
+20.000,12,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/538795.html
+839.000,170,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541497.html
+399.000,464,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/371174.html
+120.000,60,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540040.html
+145.000,69,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/529411.html
+7.500,9,Santa Coloma De Gramenet,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/santa-coloma-de-gramenet/497649.html
+230.000,80,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541141.html
+189.000,93,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/532194.html
+590.000,166,"Barcelona, Gràcia",Edificio en venta,https://www.tecnocasa.es/venta/edificio/barcelona/barcelona/487766.html
+360.000,148,Sant Vicenç Dels Horts,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-vicenc-dels-horts/522929.html
+139.000,80,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/529601.html
+285.000,149,Ripollet,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/ripollet/525268.html
+230.000,77,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/541749.html
+179.000,60,"L'Hospitalet De Llobregat, La Torrasa",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/540080.html
+227.000,112,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/536249.html
+139.000,156,Tordera,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/tordera/531605.html
+440.000,110,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539385.html
+340.000,78,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/539716.html
+1.300.000,291,"Barcelona, Eixample",Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/barcelona/541764.html
+289.000,90,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526882.html
+335.000,88,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/533647.html
+450.000,110,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/518521.html
+279.000,124,Viladecans,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/viladecans/539856.html
+206.000,80,"L'Hospitalet De Llobregat, La Torrasa",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/518893.html
+147.000,47,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/513255.html
+380.000,187,El Prat De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/el-prat-de-llobregat/532045.html
+365.000,103,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/323040.html
+159.000,71,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/535285.html
+650.000,500,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/531060.html
+439.000,190,Santa Coloma De Gramenet,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/santa-coloma-de-gramenet/535775.html
+157.000,268,"Rubí, Centre - Mercat",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/rubi/377201.html
+165.000,86,"Mataró, Centre",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/540986.html
+56.000,129,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/540391.html
+12.000,12,"Barcelona, Sant Martí",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/486994.html
+12.900,10,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/528679.html
+229.000,71,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/306056.html
+210.000,55,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540901.html
+250.000,91,"Cerdanyola Del Vallès, Centre - Cordelles",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/538404.html
+98.000,54,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/345309.html
+99.000,140,"L'Hospitalet De Llobregat, La Torrasa",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/l-hospitalet-de-llobregat/541055.html
+135.000,74,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/530383.html
+19.000,30,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/366602.html
+14.000,10,"Barcelona, Sant Andreu",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/511023.html
+165.000,71,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/526959.html
+8.900,10,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/538614.html
+17.000,11,"Barcelona, Sants - Montjuïc",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/541092.html
+255.000,59,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/242470.html
+426.500,378,"Mataró, Vista Alegre - Els Molins",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/mataro/532308.html
+179.000,65,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537192.html
+84.000,33,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/533613.html
+50.000,52,"Badalona, Montigalà - Sant Crist",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/badalona/501338.html
+198.000,165,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/512669.html
+280.000,103,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/204943.html
+139.000,61,"L'Hospitalet De Llobregat, La Torrasa",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/528873.html
+195.000,82,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/523515.html
+179.500,80,"Cerdanyola Del Vallès, Caneletes - Turonet",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/cerdanyola-del-valles/538678.html
+375.000,100,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/540854.html
+75.000,670,Sant Vicenç Dels Horts,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/sant-vicenc-dels-horts/526543.html
+80.000,965,Vallirana,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/vallirana/538717.html
+139.990,70,Granollers,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/granollers/536651.html
+38.000,25,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/537356.html
+155.000,72,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/528383.html
+13.900,11,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/510886.html
+300.000,92,Esplugues De Llobregat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/esplugues-de-llobregat/537611.html
+190.000,153,Granollers,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/granollers/535665.html
+170.000,71,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/533790.html
+750.000,152,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/537078.html
+14.500,12,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/538807.html
+300.000,239,"Barcelona, Les Corts",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/345047.html
+95.000,39,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/531962.html
+100.000,73,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/538582.html
+137.500,77,Sant Adrià De Besòs,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-adria-de-besos/537699.html
+209.000,83,"Barcelona, Sant Martí",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barcelona/527263.html
+280.000,145,"Sabadell, La Creu Alta",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sabadell/536238.html
+225.000,70,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536525.html
+210.000,75,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537525.html
+90.000,98,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/539180.html
+210.000,80,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536857.html
+425.000,115,"Barcelona, Les Corts",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/barcelona/521727.html
+169.000,120,"Rubí, Centre - Mercat",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/rubi/524238.html
+120.000,53,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/525111.html
+619.000,161,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537686.html
+135.000,68,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/537727.html
+240.000,68,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526201.html
+15.000,20,"Badalona, Artigas - Llefià",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/badalona/531942.html
+409.000,457,Vilafranca Del Penedès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/vilafranca-del-penedes/528244.html
+239.900,122,Ripollet,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/ripollet/504637.html
+349.900,136,Ripollet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/ripollet/525475.html
+70.000,113,Santa Coloma De Gramenet,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/santa-coloma-de-gramenet/538721.html
+400.000,624,Vilanova I La Geltrú,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/vilanova-i-la-geltru/537008.html
+6.000,10,"L'Hospitalet De Llobregat, La Torrasa",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/l-hospitalet-de-llobregat/539624.html
+6.000,10,"L'Hospitalet De Llobregat, La Torrasa",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/l-hospitalet-de-llobregat/539618.html
+139.000,68,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/537238.html
+310.000,96,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/534992.html
+242.000,60,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/533039.html
+1.890.000,555,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/512221.html
+443.000,97,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/522094.html
+461.000,97,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/522034.html
+477.000,97,Sant Cugat Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/sant-cugat-del-valles/522035.html
+493.000,97,Sant Cugat Del Vallès,Ático en venta,https://www.tecnocasa.es/venta/atico/barcelona/sant-cugat-del-valles/522037.html
+628.000,154,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/523465.html
+650.000,164,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/523475.html
+180.000,43,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/358158.html
+280.000,203,"Barcelona, Les Corts",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/535204.html
+105.000,50,"Barcelona, Sant Andreu",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/348194.html
+8.000,8,"Barcelona, Gràcia",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/535821.html
+480.000,141,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/525862.html
+439.000,114,Vilassar De Mar,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/vilassar-de-mar/513400.html
+275.000,92,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/536875.html
+120.000,75,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/187938.html
+190.000,90,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/229520.html
+310.000,90,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526654.html
+150.000,70,"Barcelona, Nou Barris",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/537529.html
+319.000,106,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/528876.html
+120.000,82,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/536814.html
+225.000,71,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/220895.html
+325.000,89,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/518754.html
+154.500,435,Calella,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/calella/514315.html
+90.000,120,"Barcelona, Sant Andreu",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/504451.html
+259.999,100,Vilassar De Dalt,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/vilassar-de-dalt/357997.html
+179.000,92,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/374446.html
+295.000,62,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/525866.html
+315.000,62,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526175.html
+310.000,61,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526177.html
+190.000,95,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/537970.html
+118.000,80,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/521402.html
+16.000,10,"Barcelona, Horta Guinardó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/522607.html
+748.710,161,Sant Cugat Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/sant-cugat-del-valles/517747.html
+135.000,29,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/536257.html
+18.000,18,"Barcelona, Nou Barris",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/523985.html
+195.000,63,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/506125.html
+93.000,65,"L'Hospitalet De Llobregat, La Torrasa",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/l-hospitalet-de-llobregat/535479.html
+255.000,74,Castelldefels,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/castelldefels/532824.html
+135.000,64,"Mataró, Cerdanyola",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/477808.html
+265.000,60,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/526381.html
+180.000,79,Parets Del Vallès,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/parets-del-valles/528671.html
+750.000,250,Sant Cugat Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/sant-cugat-del-valles/517460.html
+75.980,67,"Mataró, Vista Alegre - Els Molins",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/mataro/535663.html
+133.000,378,"Mataró, Cirera",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/mataro/336504.html
+180.000,43,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/530286.html
+15.500,15,"Barcelona, Eixample",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/537147.html
+372.000,210,"Rubí, Ca N'Oriol",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/rubi/521236.html
+225.000,69,"Barcelona, Les Corts",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/531531.html
+160.000,190,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/529176.html
+368.000,278,"Rubí, Can Fatjó - Els Avets",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/rubi/530712.html
+580.000,140,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/515661.html
+200.000,85,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/514126.html
+240.000,169,"Barcelona, Sants - Montjuïc",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/513822.html
+140.000,45,"Barcelona, Ciutat Vella",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/526098.html
+305.000,62,"Barcelona, Horta Guinardó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/525863.html
+651.102,1200,"Rubí, Urbanitzacions",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/rubi/494347.html
+245.000,72,"Barcelona, Sants - Montjuïc",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/260930.html
+240.000,180,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/500897.html
+12.000,9,"Barcelona, Gràcia",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/506220.html
+329.000,81,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/497519.html
+359.000,81,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/521986.html
+103.000,138,"Barcelona, Nou Barris",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/514604.html
+135.000,70,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/350535.html
+79.000,57,"L'Hospitalet De Llobregat, La Torrasa",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/l-hospitalet-de-llobregat/528503.html
+16.000,11,Sant Cugat Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/sant-cugat-del-valles/513211.html
+680.000,430,Sant Cugat Del Vallès,Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/sant-cugat-del-valles/496809.html
+167.000,47,"Badalona, Casagemes - Canyadó",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/533604.html
+315.000,140,"Rubí, Ca N'Oriol",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/rubi/531113.html
+995.000,210,"Barcelona, Eixample",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/512327.html
+105.000,1104,"Rubí, Urbanitzacions",Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/rubi/505393.html
+25.000,11,"Badalona, Casagemes - Canyadó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/badalona/530354.html
+29.990,1467,Les Franqueses Del Vallès,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/les-franqueses-del-valles/493532.html
+25.000,21,"Rubí, Centre - Mercat",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/rubi/515807.html
+294.800,105,Montgat,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/montgat/522203.html
+160.000,76,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/527596.html
+275.000,153,"Badalona, Artigas - Llefià",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/527593.html
+130.000,76,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/527597.html
+53.500,464,"Rubí, Urbanitzacions",Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/rubi/523079.html
+140.000,55,"Barcelona, Ciutat Vella",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/525110.html
+190.000,114,Santa Coloma De Gramenet,Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/santa-coloma-de-gramenet/527595.html
+127.000,35,"Barcelona, Sant Martí",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/523747.html
+145.000,67,"Barcelona, Sant Martí",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/barcelona/255512.html
+17.000,11,"Badalona, Casagemes - Canyadó",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/badalona/521254.html
+165.000,87,"Badalona, La Salut - Lloreda",Piso en venta,https://www.tecnocasa.es/venta/piso/barcelona/badalona/520257.html
+674.800,274,"Badalona, Casagemes - Canyadó",Casa en venta,https://www.tecnocasa.es/venta/casa/barcelona/badalona/514330.html
+260.000,919,Cabrils,Terrenos en venta,https://www.tecnocasa.es/venta/terrenos/barcelona/cabrils/499302.html
+79.000,125,Vilassar De Mar,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/vilassar-de-mar/492366.html
+39.000,100,Vilassar De Mar,Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/vilassar-de-mar/507114.html
+8.500,8,"Barcelona, Sants - Montjuïc",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/barcelona/336681.html
+10.000,14,Parets Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/parets-del-valles/489650.html
+15.000,36,Parets Del Vallès,Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/parets-del-valles/376261.html
+260.000,153,"Barcelona, Eixample",Local comercial en venta,https://www.tecnocasa.es/venta/local-comercial/barcelona/barcelona/359699.html
+10.000,10,"Badalona, La Salut - Lloreda",Box/plaza de garaje en venta,https://www.tecnocasa.es/venta/boxplaza-de-garaje/barcelona/badalona/480825.html
