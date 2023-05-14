@@ -8,7 +8,7 @@ import random
 from bs4 import BeautifulSoup
 import os
 
-def tecnocasa(driver,city,url_given,cookies_click):
+def tecnocasa(driver,province,url_given,cookies_click):
     url_site = str(url_given) + "1"
     driver.get(url_site)
     time.sleep(random.uniform(4,6))
@@ -44,10 +44,14 @@ def tecnocasa(driver,city,url_given,cookies_click):
             metraje = find_value_by_regex_in_a_list(pattern, lista_metraje)
             try:
                 precio = precio.text.replace('€', '')
+                precio = precio.replace('.', '')
+                precio = precio.replace(' ', '')
+                precio = precio.strip()
+                precio = int(precio)
                 metraje = metraje.replace('m', '')
             except:
                 pass
-            data = {'price': precio.strip(), 'size': metraje.strip(), 'location': lugar.text.strip(),'city':city, 'title': titulo.text.strip(), 'url': url['href']}
+            data = {'price': precio, 'size': metraje.strip(), 'location': lugar.text.strip(),'province':province, 'title': titulo.text.strip(), 'url': url['href']}
             if precio is not None and metraje is not None and titulo is not None and url is not None:
                 add_to_csv_without_duplicates(dict_data=data)
             else:
@@ -55,7 +59,7 @@ def tecnocasa(driver,city,url_given,cookies_click):
                 print(data)
 
 def call_tecnocasa(headless):
-    cities={
+    provinces={
         "araba":"https://www.tecnocasa.es/venta/inmuebles/pais-vasco/araba.html/pag-",
         "albacete":"https://www.tecnocasa.es/venta/inmuebles/castilla-la-mancha/albacete.html/pag-",
         "alicante":"https://www.tecnocasa.es/venta/inmuebles/comunidad-valenciana/alicante.html/pag-",
@@ -119,10 +123,10 @@ def call_tecnocasa(headless):
     driver.implicitly_wait(10)
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     cookies_click = True
-    for city,url in cities.items():
+    for province,url in provinces.items():
         try:
             print("Starting tecnocasa with Url: {}".format(url))
-            tecnocasa(driver,city,url,cookies_click)
+            tecnocasa(driver,province,url,cookies_click)
         except Exception as e:
             print("----------------error----------------")
             print(e)
@@ -138,8 +142,8 @@ def find_value_by_regex_in_a_list(pattern, list):
             return match.group()
     return None
 
-def add_to_csv_without_duplicates(dict_data,file_name='data/realestate_data_spain.csv'):
-    headers = ['price', 'size', 'location', 'city','title', 'url']
+def add_to_csv_without_duplicates(dict_data, file_name='data/realestate_data_spain.csv'):
+    headers = ['price', 'size', 'location', 'province', 'title', 'url']
     if os.path.exists(file_name):
         pass
     else:
@@ -149,22 +153,24 @@ def add_to_csv_without_duplicates(dict_data,file_name='data/realestate_data_spai
         if os.path.exists(file_name):
             pass
         else:
-        # Create the file and write the header row
+            # Create the file and write the header row
             with open(file_name, 'w', newline='') as csv_file:
                 writer = csv.writer(csv_file)
                 writer.writerow(headers)
             print("File created successfully_scraping in progress")
+
         # Check if the URL is already present in the CSV file
         with open(file_name, 'r') as csv_file:
             reader = csv.DictReader(csv_file)
             for row in reader:
                 if row['url'] == dict_data['url']:
                     return "URL already present"
-    
+
     # Append the data to the CSV file
-    with open(file_name, 'a') as csv_file:
+    with open(file_name, 'a', newline='') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=headers)
         writer.writerow(dict_data)
+
     return "Data added successfully"
 
 
