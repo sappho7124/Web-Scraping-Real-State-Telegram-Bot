@@ -15,6 +15,12 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
 
 
 public class Bot extends TelegramLongPollingBot {
@@ -45,9 +51,44 @@ public void onUpdateReceived(Update update) {
                 e.printStackTrace();
             }
         }
-        if(message_text.contains("/find")){
+        if(message_text.contains("/datatest")){
             SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
             message.setChatId(update.getMessage().getChatId().toString());
+            message.setText("Mirar logs");
+            try {
+                String url = "jdbc:sqlite:realestate_data_spain.db";
+        
+                try (Connection connection = DriverManager.getConnection(url);
+                     Statement statement = connection.createStatement()) {
+
+                    String query = "SELECT * FROM realestate_data";
+                    ResultSet resultSet = statement.executeQuery(query);
+
+                    while (resultSet.next()) {
+                        // Retrieve data from the result set
+                        String price = resultSet.getString("price");
+                        String size = resultSet.getString("size");
+                        String province = resultSet.getString("province");
+                        // ... retrieve other columns
+
+                        // Process the retrieved data as needed
+                        System.out.println("Price: " + price);
+                        System.out.println("Size: " + size);
+                        System.out.println("province: " + province);
+                        // ... print or use other columns as required
+                    }
+
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+                execute(message); // Call method to send the message
+            } catch (TelegramApiException e) {
+                e.printStackTrace();
+            }
+        }
+        if(message_text.contains("/find")){
+            /**SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
+            message.setChatId(update.getMessage().getChatId().toString());*/
             String input = message_text;
             String patternString = "/find\\s+(\\w+)\\s+(\\d+)-(\\d+)";
             // Compile the pattern
@@ -58,24 +99,70 @@ public void onUpdateReceived(Update update) {
 
             // Check if a match is found
             if (matcher.matches()) {
+                SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
+                message.setChatId(update.getMessage().getChatId().toString());
                 // Extract the province name, min value, and max value
-                String province = matcher.group(1);
+                String province_given = matcher.group(1);
                 int minValue = Integer.parseInt(matcher.group(2));
                 int maxValue = Integer.parseInt(matcher.group(3));
 
                 // Print the extracted values
-                System.out.println("Province: " + province);
+                System.out.println("Province: " + province_given);
                 System.out.println("Min Value: " + minValue);
                 System.out.println("Max Value: " + maxValue);
-                message.setText("Los valores que ingresaste fueron: Provincia: " + province + " / Min: " + minValue+" / Max: "+maxValue);
+                message.setText("Los valores que ingresaste fueron: Provincia: " + province_given + " / Min: " + minValue+" / Max: "+maxValue);
+                try {
+                    execute(message); // Call method to send the message
+                } catch (TelegramApiException e) {
+                    e.printStackTrace();
+                }
+                        
+                try (Connection conn = DriverManager.getConnection("jdbc:sqlite:realestate_data_spain.db");
+                Statement stmt = conn.createStatement();
+                ResultSet rs = stmt.executeQuery("SELECT * FROM realestate_data WHERE province = '" + province_given + "' AND price >= " + minValue + " AND price <= " + maxValue)) {
+                System.out.println("rs: " + rs);
+                    while (rs.next()) {
+                        
+                        
+                        String price = rs.getString("price");
+                        String size = rs.getString("size");
+                        String location = rs.getString("location");
+                        String province = rs.getString("province");
+                        String title = rs.getString("title");
+                        String url = rs.getString("url");
+                        
+                        /**System.out.println("price: " + price);
+                        System.out.println("size: " + size);
+                        System.out.println("location: " + location);
+                        System.out.println("province: " + province);
+                        System.out.println("title: " + title);
+                        System.out.println("url: " + url);*/
+                        
+                        
+                        message.setText("Precio: "+price+"\n Metraje: "+size+" m\n Titulo: "+title+"\n Ubicacion: "+location+"\n Url: "+url);
+                        try {
+                            execute(message); // Call method to send the message
+                        } catch (TelegramApiException e) {
+                            e.printStackTrace();
+                        }
+                        
+                        
+                        /**RealEstateData data = new RealEstateData(price, size, location, province, title, url);
+                        dataList.add(data);*/
+                    }
+                } catch (SQLException e) {
+                    System.out.println("Error retrieving data from the database: " + e.getMessage());
+                }
+                
             } else {
                 System.out.println("No te entendi, escribe el mensaje siguiendo este formato: /find [provincia] [valor minimo]-[valor maximo]");
             }
+            /**
             try {
                 execute(message); // Call method to send the message
             } catch (TelegramApiException e) {
                 e.printStackTrace();
-            }
+            }*/
         }
     }
 }
@@ -90,5 +177,6 @@ public void onUpdateReceived(Update update) {
         return "6100423014:AAH9MhBBKAfPEfsYd08yaDLZS4MANHyg-tA";
     }
 
+    
     
 }

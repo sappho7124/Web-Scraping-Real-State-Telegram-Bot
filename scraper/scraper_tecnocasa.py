@@ -48,10 +48,19 @@ def tecnocasa(driver,province,url_given,cookies_click):
                 precio = precio.replace(' ', '')
                 precio = precio.strip()
                 precio = int(precio)
+                #print("precio: ",precio)
                 metraje = metraje.replace('m', '')
-            except:
-                pass
-            data = {'price': precio, 'size': metraje.strip(), 'location': lugar.text.strip(),'province':province, 'title': titulo.text.strip(), 'url': url['href']}
+                metraje = metraje.strip()
+                #print("metraje: ",metraje)
+                lugar = lugar.text.strip()
+                lugar = lugar.replace(',', '.')
+                #print("lugar: ",lugar)
+                titulo = titulo.text.strip()
+                titulo = titulo.replace(',', '.')
+                #print("titlulo: ",titulo)
+            except Exception as e:
+                print("error in formatting: ",e)
+            data = {'price': precio, 'size': metraje, 'location': lugar,'province':province, 'title': titulo, 'url': url['href']}
             if precio is not None and metraje is not None and titulo is not None and url is not None:
                 add_to_csv_without_duplicates(dict_data=data)
             else:
