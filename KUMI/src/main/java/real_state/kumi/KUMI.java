@@ -24,7 +24,7 @@ public class KUMI {
     private static void importCsvData(Connection connection, String csvFile) throws SQLException {
         String tableName = "realestate_data";
         String csvDelimiter = ",";
-        String sqlCreateTable = "CREATE TABLE IF NOT EXISTS " + tableName + " (price TEXT, size TEXT, location TEXT, province TEXT, title TEXT, url TEXT)";
+        String sqlCreateTable = "CREATE TABLE IF NOT EXISTS " + tableName + " (price INTEGER, size INTEGER, location TEXT, province TEXT, title TEXT, url TEXT)";
         String sqlInsert = "INSERT INTO " + tableName + " (price, size, location, province, title, url) VALUES (?, ?, ?, ?, ?, ?)";
 
         try (Statement statement = connection.createStatement();

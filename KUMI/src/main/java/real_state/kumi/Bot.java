@@ -86,11 +86,31 @@ public void onUpdateReceived(Update update) {
                 e.printStackTrace();
             }
         }
-        if(message_text.contains("/find")){
+        if(message_text.contains("/help")){
+            SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
+            message.setChatId(update.getMessage().getChatId().toString());
+            try {
+                message.setText("Comandos disponibles:\n/help lista de comandos disponibles\n/findprice encuentra propiedades en un rango de precios en una provincia\n/findsize encuentra propiedades en un rango de metraje en una provincia\nPara usar un comando de find usa este formato: /find... [tamaño] [valor minimo]-[valor maximo]");
+                execute(message); // Call method to send the message
+            } catch (TelegramApiException e) {
+                e.printStackTrace();
+            }
+        }
+        if(message_text.contains("/start")){
+            SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
+            message.setChatId(update.getMessage().getChatId().toString());
+            try {
+                message.setText("Bot para encontrar propiedades en españa, Creado por: \nSantiago Mejia\nDaniel Bautista\nKevin Llanos\nCristian Muñoz");
+                execute(message); // Call method to send the message
+            } catch (TelegramApiException e) {
+                e.printStackTrace();
+            }
+        }
+        if(message_text.contains("/findprice")){
             /**SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
             message.setChatId(update.getMessage().getChatId().toString());*/
             String input = message_text;
-            String patternString = "/find\\s+(\\w+)\\s+(\\d+)-(\\d+)";
+            String patternString = "/findprice\\s+(\\w+)\\s+(\\d+)-(\\d+)";
             // Compile the pattern
             Pattern pattern = Pattern.compile(patternString);
 
@@ -139,7 +159,7 @@ public void onUpdateReceived(Update update) {
                         System.out.println("url: " + url);*/
                         
                         
-                        message.setText("Precio: "+price+"\n Metraje: "+size+" m\n Titulo: "+title+"\n Ubicacion: "+location+"\n Url: "+url);
+                        message.setText("Precio: "+price+"\nMetraje: "+size+" m\nTitulo: "+title+"\nUbicacion: "+location+"\nUrl: "+url);
                         try {
                             execute(message); // Call method to send the message
                         } catch (TelegramApiException e) {
@@ -155,7 +175,91 @@ public void onUpdateReceived(Update update) {
                 }
                 
             } else {
-                System.out.println("No te entendi, escribe el mensaje siguiendo este formato: /find [provincia] [valor minimo]-[valor maximo]");
+                SendMessage message = new SendMessage();
+                message.setChatId(update.getMessage().getChatId().toString());
+                message.setText("No te entendi, escribe el mensaje siguiendo este formato: /findprice [provincia] [valor minimo]-[valor maximo]");
+                System.out.println("No te entendi, escribe el mensaje siguiendo este formato: /findprice [provincia] [valor minimo]-[valor maximo]");
+            }
+            /**
+            try {
+                execute(message); // Call method to send the message
+            } catch (TelegramApiException e) {
+                e.printStackTrace();
+            }*/
+        }
+        if(message_text.contains("/findsize")){
+            /**SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
+            message.setChatId(update.getMessage().getChatId().toString());*/
+            String input = message_text;
+            String patternString = "/findsize\\s+(\\w+)\\s+(\\d+)-(\\d+)";
+            // Compile the pattern
+            Pattern pattern = Pattern.compile(patternString);
+
+            // Match the pattern against the input string
+            Matcher matcher = pattern.matcher(input);
+
+            // Check if a match is found
+            if (matcher.matches()) {
+                SendMessage message = new SendMessage(); // Create a SendMessage object with mandatory fields
+                message.setChatId(update.getMessage().getChatId().toString());
+                // Extract the province name, min value, and max value
+                String province_given = matcher.group(1);
+                int minValue = Integer.parseInt(matcher.group(2));
+                int maxValue = Integer.parseInt(matcher.group(3));
+
+                // Print the extracted values
+                System.out.println("Province: " + province_given);
+                System.out.println("Min Value: " + minValue);
+                System.out.println("Max Value: " + maxValue);
+                message.setText("Los valores que ingresaste fueron: Provincia: " + province_given + " / Min: " + minValue+" / Max: "+maxValue);
+                try {
+                    execute(message); // Call method to send the message
+                } catch (TelegramApiException e) {
+                    e.printStackTrace();
+                }
+                        
+                try (Connection conn = DriverManager.getConnection("jdbc:sqlite:realestate_data_spain.db");
+                Statement stmt = conn.createStatement();
+                ResultSet rs = stmt.executeQuery("SELECT * FROM realestate_data WHERE province = '" + province_given + "' AND size >= " + minValue + " AND size <= " + maxValue)) {
+                System.out.println("rs: " + rs);
+                    while (rs.next()) {
+                        
+                        
+                        String price = rs.getString("price");
+                        String size = rs.getString("size");
+                        String location = rs.getString("location");
+                        String province = rs.getString("province");
+                        String title = rs.getString("title");
+                        String url = rs.getString("url");
+                        
+                        /**System.out.println("price: " + price);
+                        System.out.println("size: " + size);
+                        System.out.println("location: " + location);
+                        System.out.println("province: " + province);
+                        System.out.println("title: " + title);
+                        System.out.println("url: " + url);*/
+                        
+                        
+                        message.setText("Precio: "+price+"\nMetraje: "+size+" m\nTitulo: "+title+"\nUbicacion: "+location+"\nUrl: "+url);
+                        try {
+                            execute(message); // Call method to send the message
+                        } catch (TelegramApiException e) {
+                            e.printStackTrace();
+                        }
+                        
+                        
+                        /**RealEstateData data = new RealEstateData(price, size, location, province, title, url);
+                        dataList.add(data);*/
+                    }
+                } catch (SQLException e) {
+                    System.out.println("Error retrieving data from the database: " + e.getMessage());
+                }
+                
+            } else {
+                SendMessage message = new SendMessage();
+                message.setChatId(update.getMessage().getChatId().toString());
+                message.setText("No te entendi, escribe el mensaje siguiendo este formato: /findsize [provincia] [valor minimo]-[valor maximo]");
+                System.out.println("No te entendi, escribe el mensaje siguiendo este formato: /findsize [provincia] [valor minimo]-[valor maximo]");
             }
             /**
             try {
